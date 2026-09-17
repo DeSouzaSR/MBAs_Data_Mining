@@ -17,3 +17,7 @@ Center. By analyzing key orbital parameters—specifically the semi-major axis
 density distribution of Main Belt asteroids, quantify the location and structure
 of the Kirkwood gaps, and evaluate observational selection biases across 
 magnitude-restricted sub-samples.
+
+Sources:
+https://asteroid.lowell.edu/astorb/
+https://ftp.lowell.edu/pub/elgb/astorb.dat.gz
