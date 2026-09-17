@@ -19,5 +19,6 @@ of the Kirkwood gaps, and evaluate observational selection biases across
 magnitude-restricted sub-samples.
 
 Sources:
-https://asteroid.lowell.edu/astorb/
-https://ftp.lowell.edu/pub/elgb/astorb.dat.gz
+
+1. https://asteroid.lowell.edu/astorb/
+2. https://ftp.lowell.edu/pub/elgb/astorb.dat.gz
